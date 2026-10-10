@@ -4,4 +4,4 @@ numpy
 python-dotenv
 google-generativeai
 plotly
-
+google-genai
